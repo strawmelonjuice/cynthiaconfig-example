@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+cynthia_config/templates/*.handlebars linguist-vendored
+cynthia_config/styles/*.css linguist-vendored
+site/* linguist-detectable
+site/* -linguist-documentation
+*.md linguist-language=Markdown
+*.jsonc linguist-language=JSON

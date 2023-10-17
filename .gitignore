@@ -1,0 +1,9 @@
+clean-cyn.tar.gz
+logs
+main.js
+node_modules
+package.json
+package-lock.json
+pack.sh
+.env
+*.kate-swp
